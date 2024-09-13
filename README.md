@@ -1,0 +1,1 @@
+# Manual-Segmentation-Projects-Lung-CT-scan-.-CXR-Blood-cell-Skin-Cancer-
